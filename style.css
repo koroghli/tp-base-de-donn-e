@@ -1,0 +1,98 @@
+
+body
+{
+  background: fixed url('http://www.anawalls.com/images/textures/matt-circles-light-texture.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+table {
+  margin-top: 50px;
+margin-left:   300px;
+  border-collapse: solid;
+  width: 60%;
+  background-color: white;
+  margin-bottom: 20px;
+}
+th
+{
+height:60px
+}
+table, th, td
+{
+   border: 2px solid #4a8297;
+  font-family: Garamond, serif;
+
+}
+tr:nth-child(even)
+{background-color: #4a8297;
+  }
+th , td
+{
+padding-left:  10px;
+}
+form
+{
+margin-top: 5px;
+margin-left:150px;
+font-family: Garamond, serif;
+}
+label
+{
+  width: 60px;
+margin-left: 5px;
+  height: 60px;
+  font-size: 10px;
+}
+input#annee{
+  width: 180px;
+}
+h1
+{color: white;
+  margin-left: 300px;
+  margin-bottom: 30px;
+  font-family: Garamond, serif;
+}
+ h2
+{
+margin-left:300px;
+margin-bottom: 30px;
+color: white;
+font-family: Garamond, serif;
+}
+form#chercher
+{
+margin-top: 30px;
+margin-left: 300px;
+margin-bottom: 100px;
+font-family: Garamond, serif;
+}
+h3
+{
+  margin-left: 350px;
+color: white;
+  margin-top: 50px;
+  font-family: Garamond, serif;
+}
+#ligne1
+{
+  height: 200px;
+background-color:rgba(75,75,75,0.6);
+margin-bottom: 50px;
+}
+#ligne2
+{
+
+background-color:rgba(72,72,72,0.6);
+margin-bottom: 50px;
+}
+#ligne3
+{
+
+background-color:rgba(72,72,72,0.6);
+margin-bottom: 50px;
+}
+#ligne4
+{
+  background-color:rgba(72,72,72,0.6);
+
+}
